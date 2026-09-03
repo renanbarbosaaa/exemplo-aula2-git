@@ -91,3 +91,48 @@ git add .
 git commit -m "Texto do commit"
 git push -u origin main
 ```
+
+## Citações
+
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto
+```
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto
+
+## Tabelas
+
+```
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle de versão
+| GitHub | Hospedagem e colaboração
+| Markdown | Documentação |
+```
+
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle de versão
+| GitHub | Hospedagem e colaboração
+| Markdown | Documentação |
+
+```
+| Alinhamento á esquerda | Alinhamento ao centro | Alinhamento á direita |
+| :--  | :--: | --: |
+| Texto | Texto | Texto
+```
+
+| Alinhamento á esquerda | Alinhamento ao centro | Alinhamento á direita |
+| :--  | :--: | --: |
+| Texto | Texto | Texto
+
+
+## Imagens
+
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+![Paisagem Suiça](./Img/paisagemSuica.jpg)
